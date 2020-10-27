@@ -1,0 +1,18 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data-fetcher.js",
+  "scripts": {
+    "dev": "node data-fetcher.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.2"
+  }
+}
